@@ -77,3 +77,5 @@ L'application sera accessible sur http://localhost:3000
 - `DELETE_COMPTE` - Supprimer un compte
 - `ADD_TRANSACTION` - Ajouter une transaction
 
+## Capture d'ecran
+<img width="1846" height="883" alt="image" src="https://github.com/user-attachments/assets/34f48bdf-b99d-4a20-91c5-b4b644d7098c" />
